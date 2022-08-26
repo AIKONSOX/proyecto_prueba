@@ -1,2 +1,2 @@
 const titulo = document.querySelector('.titulo');
-titulo.textContent = 'Bienvenido desde archivo JavaScript'
+titulo.textContent = 'Bienvenido desde archivo JavaScript.'
